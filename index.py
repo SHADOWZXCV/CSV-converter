@@ -4,7 +4,7 @@
     @package: csv_to_json
     @version: 0.0.15
     @description: A module that converts csv files to formated JSON readable files
-    @dependencies: { regex }
+    @dependencies: { regex }s
 
 """
 from lib.path import extractAllCsv
