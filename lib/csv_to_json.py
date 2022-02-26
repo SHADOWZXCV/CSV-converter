@@ -1,6 +1,6 @@
-import json
-import regex as re
-from lib.loading_bar import progress
+# import json
+# import regex as re
+# from lib.loading_bar import progress
 
 def convert(pathToCsv = '', pathToJson = '', splitter = ',') :
     headerContent = []
