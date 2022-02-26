@@ -9,8 +9,7 @@
 """
 from lib.path import extractAllCsv
 
-# All available csv files on `Ready` folder, are going to be converted and added to `Extracted` folder
-
+# All available csv files on `Ready` folder, are going to be converted and added to `Extracted` folder.
 # Standard separator: ,
 # Examples of non-standard separators: ( ; : )
 # Note: all csv files that have non-standard separators must pass its details as an argument like below, 
