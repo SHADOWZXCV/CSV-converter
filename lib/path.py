@@ -12,7 +12,7 @@ def extractAllCsv(exceptions):
         return
     print('Conversion is in the process: ')
     time.sleep(3)
-    for index, file in enumerate():
+    for index, file in enumerate(listOfFiles):
         if file.endswith('.csv'):
             print('')
             print('{})'.format(index + 1), file)
